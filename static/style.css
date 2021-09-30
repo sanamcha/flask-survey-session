@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(201, 196, 196);
+}
+
+header {
+    color: whitesmoke;
+    font-size: 250%;
+    margin-bottom: 1.5em;
+    text-align: center;
+    padding: 1em 0;
+    background-color:rgb(241, 98, 241);
+}
+
+footer {
+    background-color: rgb(245, 90, 245);
+    color:whitesmoke;
+    margin-top: 2.5em;
+    text-align: center;
+    padding: 1em 0;
+    
+}
